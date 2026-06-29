@@ -1,0 +1,9 @@
+# Local test artifacts
+*.b64
+output.json
+hello-back.txt
+lambda-hello/
+
+# OS
+.DS_Store
+Thumbs.db
