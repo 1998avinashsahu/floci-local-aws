@@ -200,4 +200,4 @@ provider "aws" {
 ## Author
 
 **Avinash Sahu** — DevOps Engineer  
-[GitHub](https://github.com/1998avinashsahu) · [LinkedIn](https://linkedin.com/in/avinashsahu)
+[GitHub](https://github.com/1998avinashsahu) · [LinkedIn](https://www.linkedin.com/in/avinash-sahu-0ba434181/)
